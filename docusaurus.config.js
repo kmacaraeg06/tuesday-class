@@ -8,9 +8,9 @@ const config = {
   future: {},
 
   url: 'https://kmacaraeg06.github.io',
-  baseUrl: '/tuesday-class/',
+  baseUrl: '/tuesday_class/',
   organizationName: 'kmacaraeg06',
-  projectName: 'tuesday-class',
+  projectName: 'tuesday_class',
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
